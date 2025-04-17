@@ -1,6 +1,6 @@
 # BEST STUDENT PAPER AWARD ICASSP 2025 (over 3.310 paper accepted)
 
-## Label-constrained unsupervised domain adaptation for semantic segmentation with diffusion models - ICASSP 2025
+## Label-constrained unsupervised domain adaptation for semantic segmentation with diffusion models - Alexandre Stenger, Etienne Baudrier, Benoit Naegel, Nicolas Passat - ICASSP 2025
 
 This is the repository for the following paper : https://hal.science/hal-04852579/document
 
