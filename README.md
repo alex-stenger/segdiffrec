@@ -6,6 +6,9 @@ This is the repository for the following paper : https://hal.science/hal-0485257
 
 ### Training Instruction
 
+This code was runned using ```python-3.11.4```
+libraries used can be find in the file ```requirements.txt```
+
 #### Dataset 
 The data should be in the following structure :
 
